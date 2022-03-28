@@ -1,0 +1,25 @@
+{
+  "invoices": [
+    {
+      "id": 1,
+      "title": "Learning React",
+      "year": 2022,
+      "amount": "$10.00",
+      "due": "19/03/2022"
+    },
+    {
+      "id": 2,
+      "title": "Atomic Habits",
+      "year": 2020,
+      "amount": "0",
+      "due": "19/12/2021"
+    },
+    {
+      "title": "The Garden of the Finizi Continis",
+      "year": 2022,
+      "amount": "50",
+      "due": "05/03/2022",
+      "id": 3
+    }
+  ]
+}
