@@ -15,7 +15,7 @@ const invoices = [
   },
   {
     id: 3,
-    title: "Garden of Finzi Continis",
+    title: "The Garden of the Finzi Continis",
     year: 1940,
     amount: "$14.99",
     due: "21/03/2022",
